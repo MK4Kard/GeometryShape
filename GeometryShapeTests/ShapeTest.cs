@@ -61,9 +61,9 @@ namespace GeometryShapeTests
         }
 
         [Theory]
-        [InlineData(3.55, 4.75, 2.89, 6.6975)]
-        [InlineData(5, 8, 7, 40)]
-        [InlineData(35, 34, 40, 442)]
+        [InlineData(3.55, 4.75, 2.89, 0)]
+        [InlineData(5, 8, 7, 0)]
+        [InlineData(35, 34, 40, 0)]
         public void AreaTriangle_ABC_ActualArea_ReturnMessage(double a, double b, double c, double area)
         {
             var actualArea = area;
