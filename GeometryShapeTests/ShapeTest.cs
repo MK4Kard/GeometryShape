@@ -61,6 +61,32 @@ namespace GeometryShapeTests
         }
 
         [Theory]
+        [InlineData(3.55, 4.75, 2.89, 6.6975)]
+        [InlineData(5, 8, 7, 40)]
+        [InlineData(35, 34, 40, 442)]
+        public void AreaTriangle_ABC_ActualArea_ReturnMessage(double a, double b, double c, double area)
+        {
+            var actualArea = area;
+
+            Triangle triangle = new Triangle(a, b, c);
+
+            Assert.Equal(triangle.Area(), actualArea);
+        }
+
+        [Theory]
+        [InlineData(3.5, 4.7, 2.8, 11)]
+        [InlineData(5, 8, 7, 20)]
+        [InlineData(35, 34, 40, 109)]
+        public void PerimeterTriangle_ABC_ActualPerimeter_ReturnMessage(double a, double b, double c, double perimeter)
+        {
+            var actualPerimeter = perimeter;
+
+            Triangle triangle = new Triangle(a, b, c);
+
+            Assert.Equal(triangle.Perimeter(), actualPerimeter);
+        }
+
+        [Theory]
         [InlineData(-59.0)]
         [InlineData(0.0)]
         public void CreateRectangle_WidthIncorrectData_ReturnMessage(double data)
