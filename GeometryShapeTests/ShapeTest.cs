@@ -13,7 +13,7 @@ namespace GeometryShapeTests
         [Fact]
         public void CreateRectangle_ReturnMessage()
         {
-            var actualMess = "Прямоугольник: ширина-1,2, длина-2";
+            var actualMess = "Прямоугольник: ширина-1.2, длина-2";
 
             Rectangle rectangle = new Rectangle(1.2, 2.0);
 
