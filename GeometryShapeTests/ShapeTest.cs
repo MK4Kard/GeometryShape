@@ -13,7 +13,7 @@ namespace GeometryShapeTests
         [Fact]
         public void CreateRectangle_ReturnMessage()
         {
-            var actualMess = "Прямоугольник: ширина-1,2, длина-2";
+            var actualMess = "Прямоугольник: ширина-1.2, длина-2";
 
             Rectangle rectangle = new Rectangle(1.2, 2.0);
 
@@ -61,9 +61,8 @@ namespace GeometryShapeTests
         }
 
         [Theory]
-        [InlineData(3.55, 4.75, 2.89, 6.6975)]
-        [InlineData(5, 8, 7, 40)]
-        [InlineData(35, 34, 40, 442)]
+        [InlineData(3, 4, 5, 6)]
+        [InlineData(5, 5, 6, 12)]
         public void AreaTriangle_ABC_ActualArea_ReturnMessage(double a, double b, double c, double area)
         {
             var actualArea = area;
