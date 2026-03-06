@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\DNS\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0414\u043E\u0434\u0435\u043B\u044B\u0432\u0430\u0442\u044C\\GeometryShape\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{38FF8EA0-AA0F-497B-9E46-F7C756689D06}|GeometryShape.csproj|c:\\users\\dns\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0434\u043E\u0434\u0435\u043B\u044B\u0432\u0430\u0442\u044C\\geometryshape\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38FF8EA0-AA0F-497B-9E46-F7C756689D06}|GeometryShape.csproj|solutionrelative:class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6DA89C1A-98F0-4132-8D72-B949EF98D9F7}|GeometryShapeTests\\GeometryShapeTests.csproj|c:\\users\\dns\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0434\u043E\u0434\u0435\u043B\u044B\u0432\u0430\u0442\u044C\\geometryshape\\geometryshapetests\\shapetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DA89C1A-98F0-4132-8D72-B949EF98D9F7}|GeometryShapeTests\\GeometryShapeTests.csproj|solutionrelative:geometryshapetests\\shapetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38FF8EA0-AA0F-497B-9E46-F7C756689D06}|GeometryShape.csproj|c:\\users\\dns\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0434\u043E\u0434\u0435\u043B\u044B\u0432\u0430\u0442\u044C\\geometryshape\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38FF8EA0-AA0F-497B-9E46-F7C756689D06}|GeometryShape.csproj|solutionrelative:rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38FF8EA0-AA0F-497B-9E46-F7C756689D06}|GeometryShape.csproj|c:\\users\\dns\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0434\u043E\u0434\u0435\u043B\u044B\u0432\u0430\u0442\u044C\\geometryshape\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38FF8EA0-AA0F-497B-9E46-F7C756689D06}|GeometryShape.csproj|solutionrelative:triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38FF8EA0-AA0F-497B-9E46-F7C756689D06}|GeometryShape.csproj|c:\\users\\dns\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0434\u043E\u0434\u0435\u043B\u044B\u0432\u0430\u0442\u044C\\geometryshape\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38FF8EA0-AA0F-497B-9E46-F7C756689D06}|GeometryShape.csproj|solutionrelative:shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,15 +31,53 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\DNS\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0414\u043E\u0434\u0435\u043B\u044B\u0432\u0430\u0442\u044C\\GeometryShape\\Class1.cs",
-              "RelativeDocumentMoniker": "Class1.cs",
-              "ToolTip": "C:\\Users\\DNS\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0414\u043E\u0434\u0435\u043B\u044B\u0432\u0430\u0442\u044C\\GeometryShape\\Class1.cs",
-              "RelativeToolTip": "Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "ShapeTest.cs",
+              "DocumentMoniker": "C:\\Users\\DNS\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0414\u043E\u0434\u0435\u043B\u044B\u0432\u0430\u0442\u044C\\GeometryShape\\GeometryShapeTests\\ShapeTest.cs",
+              "RelativeDocumentMoniker": "GeometryShapeTests\\ShapeTest.cs",
+              "ToolTip": "C:\\Users\\DNS\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0414\u043E\u0434\u0435\u043B\u044B\u0432\u0430\u0442\u044C\\GeometryShape\\GeometryShapeTests\\ShapeTest.cs",
+              "RelativeToolTip": "GeometryShapeTests\\ShapeTest.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAA5wDQAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T09:17:25.323Z",
+              "WhenOpened": "2026-03-06T06:58:54.65Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Triangle.cs",
+              "DocumentMoniker": "C:\\Users\\DNS\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0414\u043E\u0434\u0435\u043B\u044B\u0432\u0430\u0442\u044C\\GeometryShape\\Triangle.cs",
+              "RelativeDocumentMoniker": "Triangle.cs",
+              "ToolTip": "C:\\Users\\DNS\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0414\u043E\u0434\u0435\u043B\u044B\u0432\u0430\u0442\u044C\\GeometryShape\\Triangle.cs",
+              "RelativeToolTip": "Triangle.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wBUAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T09:36:09.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "C:\\Users\\DNS\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0414\u043E\u0434\u0435\u043B\u044B\u0432\u0430\u0442\u044C\\GeometryShape\\Rectangle.cs",
+              "RelativeDocumentMoniker": "Rectangle.cs",
+              "ToolTip": "C:\\Users\\DNS\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0414\u043E\u0434\u0435\u043B\u044B\u0432\u0430\u0442\u044C\\GeometryShape\\Rectangle.cs",
+              "RelativeToolTip": "Rectangle.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T09:22:08.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "C:\\Users\\DNS\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0414\u043E\u0434\u0435\u043B\u044B\u0432\u0430\u0442\u044C\\GeometryShape\\Shape.cs",
+              "RelativeDocumentMoniker": "Shape.cs",
+              "ToolTip": "C:\\Users\\DNS\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0414\u043E\u0434\u0435\u043B\u044B\u0432\u0430\u0442\u044C\\GeometryShape\\Shape.cs",
+              "RelativeToolTip": "Shape.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T09:20:18.824Z"
             }
           ]
         }

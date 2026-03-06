@@ -1,0 +1,12 @@
+C:\Users\DNS\OneDrive\Рабочий стол\Доделывать\GeometryShape\obj\Debug\net8.0\GeometryShape.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DNS\OneDrive\Рабочий стол\Доделывать\GeometryShape\obj\Debug\net8.0\GeometryShape.AssemblyInfoInputs.cache
+C:\Users\DNS\OneDrive\Рабочий стол\Доделывать\GeometryShape\obj\Debug\net8.0\GeometryShape.AssemblyInfo.cs
+C:\Users\DNS\OneDrive\Рабочий стол\Доделывать\GeometryShape\obj\Debug\net8.0\GeometryShape.csproj.CoreCompileInputs.cache
+C:\Users\DNS\OneDrive\Рабочий стол\Доделывать\GeometryShape\obj\Debug\net8.0\GeometryShape.sourcelink.json
+C:\Users\DNS\OneDrive\Рабочий стол\Доделывать\GeometryShape\bin\Debug\net8.0\GeometryShape.deps.json
+C:\Users\DNS\OneDrive\Рабочий стол\Доделывать\GeometryShape\bin\Debug\net8.0\GeometryShape.dll
+C:\Users\DNS\OneDrive\Рабочий стол\Доделывать\GeometryShape\bin\Debug\net8.0\GeometryShape.pdb
+C:\Users\DNS\OneDrive\Рабочий стол\Доделывать\GeometryShape\obj\Debug\net8.0\GeometryShape.dll
+C:\Users\DNS\OneDrive\Рабочий стол\Доделывать\GeometryShape\obj\Debug\net8.0\refint\GeometryShape.dll
+C:\Users\DNS\OneDrive\Рабочий стол\Доделывать\GeometryShape\obj\Debug\net8.0\GeometryShape.pdb
+C:\Users\DNS\OneDrive\Рабочий стол\Доделывать\GeometryShape\obj\Debug\net8.0\ref\GeometryShape.dll

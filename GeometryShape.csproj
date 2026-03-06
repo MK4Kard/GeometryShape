@@ -6,4 +6,10 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Remove="GeometryShapeTests\**" />
+    <EmbeddedResource Remove="GeometryShapeTests\**" />
+    <None Remove="GeometryShapeTests\**" />
+  </ItemGroup>
+
 </Project>
